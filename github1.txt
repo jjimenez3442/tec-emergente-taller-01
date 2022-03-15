@@ -1,0 +1,40 @@
+salmolfue
+S$
+correo salomonf@uninorte.edu.co
+
+
+  2  cd D:\smolina\OneDrive - Triple A\Datos_Personales\salomon\personal\especializacion\02\repo
+    3  d:
+    4  ls -la
+    5  touch index.html
+    6  git add .
+    7  git commit -m "initial commit"
+    8  git config --global user.mail "salomonf@uninorte.edu.do"
+    9  git config --global core.editor nano
+   10  list
+   11  gti log -p
+   12  git log -p
+   13  nano index.html
+   14  vi index.html
+   15  git add *
+   16  git config --global user.name "salomon molina"
+   17  git commit -m "Segundo commit"
+   18  git reset --soft a67985636c9d0297ae77ca3df66fe527ed1c40b9
+   19  vi .gitignore
+   20  git add .gitignore
+   21  git commit -m "add ignore"
+   22  git log
+   23  gs
+   24  git remote add origin https://github.com/salmolfue/especializacion.git
+   25  git branch -M main
+   26  git push
+   27  pull
+   28  git help
+   29  git pull
+   30  git pull main
+   31  git pull https://github.com/salmolfue/especializacion.git
+   32  clear
+   33  git push origin main
+   34  git checkout -b feature_x
+   35  git status
+   36  git push origin head
